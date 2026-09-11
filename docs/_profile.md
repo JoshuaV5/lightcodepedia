@@ -1,4 +1,4 @@
 ---
 bio: true
 ---
-I'm Joshua Villa and I'm a 3rd year student at UWM. I joined because of a INFOST AI building class that I'm taking.
+Hi, my name is Joshua, I am a 3rd year UWM student majoring in IST. I joined because of my INFOST class and to get a better undestanding of Github and app building.
