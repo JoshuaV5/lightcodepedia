@@ -1,35 +1,35 @@
-# lc-progress v1
-/components	1/1	0/0	2026-07-27T17:34:53.560Z
-/components/accordion	3/3	0/0	2026-07-01T15:35:29.992Z
-/components/agent	2/2	0/0	2026-06-22T22:06:34.220Z
-/components/button	0/1	0/0	2026-06-18T15:26:05.180Z
-/components/cards	2/2	0/0	2026-06-22T17:21:12.677Z
-/components/carousel	1/1	0/0	2026-06-23T05:41:31.818Z
-/components/chart	0/1	0/0	2026-06-22T18:24:15.239Z
-/components/datagrid	2/2	0/0	2026-06-22T18:26:52.226Z
-/components/demo	1/1	0/0	2026-07-16T23:30:02.612Z
-/components/diagram	1/1	0/0	2026-08-24T15:57:18.310Z
-/components/dropdown	1/1	0/0	2026-06-22T14:14:01.785Z
-/components/embed_page	2/2	0/0	2026-07-20T23:12:26.673Z
-/components/examples/adopt_wanda	3/3	0/0	2026-06-27T12:56:18.380Z
-/components/examples/model	1/1	0/0	2026-07-06T03:15:06.942Z
-/components/feature	1/1	0/0	2026-07-01T15:50:57.744Z
-/components/form	2/2	0/0	2026-06-22T21:20:06.139Z
-/components/grid	1/1	0/0	2026-06-23T05:29:36.653Z
-/components/query	1/1	0/0	2026-06-19T12:07:41.194Z
-/components/quiz	6/7	0/0	2026-06-22T22:07:57.470Z
-/components/radio	2/2	0/0	2026-06-22T13:38:11.049Z
-/components/run	1/1	0/0	2026-06-23T04:54:12.794Z
-/components/tabs	4/4	0/0	2026-06-22T20:29:58.733Z
-/components/text	1/1	0/0	2026-06-23T06:12:31.965Z
-/micro_build_ai	1/1	0/0	2026-07-11T18:36:26.453Z
-/micro_build_ai/help-lucky	1/1	0/0	2026-07-12T14:05:32.878Z
-/tutorial101	4/4	0/0	2026-09-11T17:43:31.312Z
-gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	2026-09-02T22:00:55.955Z
-gh:michelzam/lightcodepedia/docs/_410/databases/module_01/02_data_quest	2/2	1/1	2026-09-11T19:45:34.558Z
-gh:michelzam/lightcodepedia/docs/_410/databases/module_01/03_rdbms_concepts	2/2	0/0	2026-09-11T19:47:58.387Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/_setup	1/1	0/0	2026-08-25T14:55:27.123Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/join	1/1	0/0	2026-08-01T19:22:58.067Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/00_welcome	2/2	0/0	2026-08-05T19:32:47.230Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/01_adoption_day	0/0	0/1	2026-09-17T17:15:52.182Z
-crc acd1c33f
+# lc-progress v2
+/components	1/1	0/0	2026-07-27T17:34:53.560Z	JoshuaV5/lightcodepedia
+/components/accordion	3/3	0/0	2026-07-01T15:35:29.992Z	JoshuaV5/lightcodepedia
+/components/agent	2/2	0/0	2026-06-22T22:06:34.220Z	JoshuaV5/lightcodepedia
+/components/button	0/1	0/0	2026-06-18T15:26:05.180Z	JoshuaV5/lightcodepedia
+/components/cards	2/2	0/0	2026-06-22T17:21:12.677Z	JoshuaV5/lightcodepedia
+/components/carousel	1/1	0/0	2026-06-23T05:41:31.818Z	JoshuaV5/lightcodepedia
+/components/chart	0/1	0/0	2026-06-22T18:24:15.239Z	JoshuaV5/lightcodepedia
+/components/datagrid	2/2	0/0	2026-06-22T18:26:52.226Z	JoshuaV5/lightcodepedia
+/components/demo	1/1	0/0	2026-07-16T23:30:02.612Z	JoshuaV5/lightcodepedia
+/components/diagram	1/1	0/0	2026-08-24T15:57:18.310Z	JoshuaV5/lightcodepedia
+/components/dropdown	1/1	0/0	2026-06-22T14:14:01.785Z	JoshuaV5/lightcodepedia
+/components/embed_page	2/2	0/0	2026-07-20T23:12:26.673Z	JoshuaV5/lightcodepedia
+/components/examples/adopt_wanda	3/3	0/0	2026-06-27T12:56:18.380Z	JoshuaV5/lightcodepedia
+/components/examples/model	1/1	0/0	2026-07-06T03:15:06.942Z	JoshuaV5/lightcodepedia
+/components/feature	1/1	0/0	2026-07-01T15:50:57.744Z	JoshuaV5/lightcodepedia
+/components/form	2/2	0/0	2026-06-22T21:20:06.139Z	JoshuaV5/lightcodepedia
+/components/grid	1/1	0/0	2026-06-23T05:29:36.653Z	JoshuaV5/lightcodepedia
+/components/query	1/1	0/0	2026-06-19T12:07:41.194Z	JoshuaV5/lightcodepedia
+/components/quiz	6/7	0/0	2026-06-22T22:07:57.470Z	JoshuaV5/lightcodepedia
+/components/radio	2/2	0/0	2026-06-22T13:38:11.049Z	JoshuaV5/lightcodepedia
+/components/run	1/1	0/0	2026-06-23T04:54:12.794Z	JoshuaV5/lightcodepedia
+/components/tabs	4/4	0/0	2026-06-22T20:29:58.733Z	JoshuaV5/lightcodepedia
+/components/text	1/1	0/0	2026-06-23T06:12:31.965Z	JoshuaV5/lightcodepedia
+/micro_build_ai	1/1	0/0	2026-07-11T18:36:26.453Z	JoshuaV5/lightcodepedia
+/micro_build_ai/help-lucky	1/1	0/0	2026-07-12T14:05:32.878Z	JoshuaV5/lightcodepedia
+/tutorial101	4/4	0/0	2026-09-11T17:43:31.312Z	JoshuaV5/lightcodepedia
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	2026-09-02T22:00:55.955Z	JoshuaV5/lightcodepedia
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/02_data_quest	2/2	1/1	2026-09-11T19:45:34.558Z	JoshuaV5/lightcodepedia
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/03_rdbms_concepts	2/2	0/0	2026-09-11T19:47:58.387Z	JoshuaV5/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/_setup	1/1	0/0	2026-08-25T14:55:27.123Z	JoshuaV5/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/join	1/1	0/0	2026-08-01T19:22:58.067Z	JoshuaV5/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/00_welcome	3/3	1/1	2026-09-18T15:52:23.200Z	JoshuaV5/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/01_adoption_day	0/0	0/1	2026-09-17T17:15:52.182Z	JoshuaV5/lightcodepedia
+crc 0e64f70b
