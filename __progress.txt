@@ -28,10 +28,11 @@
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	2026-09-02T22:00:55.955Z	JoshuaV5/lightcodepedia
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/02_data_quest	2/2	1/1	2026-09-11T19:45:34.558Z	JoshuaV5/lightcodepedia
 gh:michelzam/lightcodepedia/docs/_410/databases/module_01/03_rdbms_concepts	2/2	0/0	2026-09-11T19:47:58.387Z	JoshuaV5/lightcodepedia
+gh:michelzam/lightcodepedia/docs/_410/databases/module_03/00_setup	2/2	0/0	2026-09-22T03:05:16.873Z	JoshuaV5/lightcodepedia
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/_setup	1/1	0/0	2026-08-25T14:55:27.123Z	JoshuaV5/lightcodepedia
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/join	1/1	0/0	2026-08-01T19:22:58.067Z	JoshuaV5/lightcodepedia
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/00_welcome	3/3	1/1	2026-09-18T15:52:23.200Z	JoshuaV5/lightcodepedia
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/01_adoption_day	3/3	0/1	2026-09-18T15:54:37.448Z	JoshuaV5/lightcodepedia
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/02_monday_after	7/7	1/1	2026-09-18T15:58:28.762Z	JoshuaV5/lightcodepedia
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/03_concepts	3/3	1/1	2026-09-18T16:00:06.985Z	JoshuaV5/lightcodepedia
-crc 3223cd7e
+crc 47083edf
